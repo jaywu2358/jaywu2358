@@ -18,11 +18,15 @@ One of my strongest qualities is my ability to learn quickly and efficiently. I 
 </div>
 
 ## My Tech Stack 💻
-### Backend 🛠️:
-<img src="https://user-images.githubusercontent.com/106934206/218082770-41b1ebd7-08eb-49d2-8824-defd559b83bb.svg" title="Java" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082794-ba703fc0-f6ab-41bf-ac30-cc90426dc979.svg" title="npm" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082826-d54a67aa-d104-4f57-a741-5b17de549249.png" title="SQL" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082844-7dce1bac-c2e6-4d92-bc1b-76d4f66be828.svg" title="PostgreSQL" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082871-a9143d40-134d-4664-b9c0-0239bbcb572d.svg" title="RESTful APIs" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082890-0ab3035c-a219-4b95-8f6a-6c1478ce1a6b.svg" title="Spring Boot" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082901-27dfcd31-9879-4c07-9666-6e9144e180b7.svg" title="Spring" width="100" />
+### Backend 🛠️
+<img src="https://user-images.githubusercontent.com/106934206/218082770-41b1ebd7-08eb-49d2-8824-defd559b83bb.svg" title="Java" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082794-ba703fc0-f6ab-41bf-ac30-cc90426dc979.svg" title="npm" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082826-d54a67aa-d104-4f57-a741-5b17de549249.png" title="SQL" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082844-7dce1bac-c2e6-4d92-bc1b-76d4f66be828.svg" title="PostgreSQL" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082871-a9143d40-134d-4664-b9c0-0239bbcb572d.svg" title="RESTful APIs" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082890-0ab3035c-a219-4b95-8f6a-6c1478ce1a6b.svg" title="Spring Boot" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218082901-27dfcd31-9879-4c07-9666-6e9144e180b7.svg" title="Spring" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084776-c474ae19-71fe-45ab-8e75-c19ca736b8b9.svg" title="JSON" width="100" />
 
- 
-### Frontend 🌐:
+### Frontend 🌐
+<img src="https://user-images.githubusercontent.com/106934206/218084685-680ad6fa-7442-46f6-8b2a-9a247812f8b0.svg" title="Javascript" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084696-d40e7148-1e3f-40a5-a8bb-8b8c50d85f48.svg" title="Vue.js" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084705-1bb3c847-f3f2-49d4-8383-fd9f69f09eee.svg" title="React.js" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084716-2615c885-360a-488f-94ac-938de8d43595.svg" title="Node.js" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084738-462420f3-817a-4c36-8d79-575cc6cddde2.svg" title="jQuery" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218084813-7d1f5b34-6b98-4a8a-972e-a0dfb9a36187.svg" title="HTML" width="100" /><img src="https://user-images.githubusercontent.com/106934206/218085978-8a617bd1-5f59-4fbf-84c9-5eb400ea6fb4.svg" title="CSS" width="90" /><img src="https://user-images.githubusercontent.com/106934206/218084832-2753b845-9942-416d-9105-e447109650a3.svg" title="SASS" width="100" />
+
+### Tools & Utilities ⭐️
+
+
 
 
 ### Github Stats
